@@ -30,4 +30,4 @@ All the credit goes to [OpenAI](http://openai.com/) and the teams behind ChatGPT
 
 ## Feedback & Support
 
-If you have any questions or feedback about ChatGPT Extension, please reach out to me on [https://twitter.com/ChatGPT_0penAI). 
+If you have any questions or feedback about ChatGPT Extension, please reach out to me on .[Twitter](https://twitter.com/ChatGPT_0penAI)
