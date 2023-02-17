@@ -4,7 +4,6 @@ ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can
 
 ## How to Install
 
-To install ChatGPT Extension, follow these steps (or watch the tutorial video on [YouTube](https://www.youtube.com/watch?v=68e6evRUv8g)):
 
 1. Download the code on GitHub.
 2. Unzip the downloaded file.
@@ -31,4 +30,4 @@ All the credit goes to [OpenAI](http://openai.com/) and the teams behind ChatGPT
 
 ## Feedback & Support
 
-If you have any questions or feedback about ChatGPT Extension, please reach out to me on [Twitter](https://twitter.com/kazuki_sf_). Also, I'm building Glasp, a social web annotation tool to build your own AI models to write, search, and summarize better. If you're interested, please check out [Glasp](https://glasp.co/ai-summary).
+If you have any questions or feedback about ChatGPT Extension, please reach out to me on [https://twitter.com/ChatGPT_0penAI). 
